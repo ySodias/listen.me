@@ -1,2 +1,2 @@
 # listen.me
-An Api to create an order your music's
+An Api to create and order your music's
